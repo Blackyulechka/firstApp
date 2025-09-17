@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Task1</string>
-    <string name="button_one" translatable="false">Работа1</string>
-    <string name="button_two" translatable="false">Работа2</string>
-    <string name="button_tree" translatable="false">Работа3</string>
+    <string name="buttonWorkOne" translatable="false">Работа1</string>
+    <string name="buttonWorkTwo" translatable="false">Работа2</string>
+    <string name="buttonWorkTree" translatable="false">Работа3</string>
+    <string name="buttonBack" translatable="false">Назад</string>
+    <string name="buttonContinue" translatable="false">Продолжить</string>
+    <string name="buttonAddPhoto" translatable="false">+</string>
 </resources>
