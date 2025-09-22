@@ -39,7 +39,7 @@
         android:layout_width="192dp"
         android:layout_height="77dp"
         android:layout_marginTop="456dp"
-        android:text="@string/buttonContinue"
+        android:text="@string/buttonNextToTwoSide"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -49,8 +49,9 @@
         android:layout_width="196dp"
         android:layout_height="75dp"
         android:layout_marginTop="576dp"
-        android:text="@string/buttonBack"
+        android:text="@string/buttonBackToMainSide"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.506"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
